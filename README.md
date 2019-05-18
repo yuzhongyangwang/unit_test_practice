@@ -48,5 +48,3 @@ Input　　    Output             Instruction
 ## 如何测试
 - 根目录下执行`./gradlew clean test`，查看测试结果
 
-## 输出规范
-- 完成需求的代码及测试
